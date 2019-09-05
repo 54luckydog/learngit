@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScappleDocument Version="1.1" ID="DF8043F7-0792-4861-BC65-61D4FB62593A">
+    <Notes>
+        <Note ID="2" FontSize="14.0" Position="252.0,123.0" Width="64.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.561855 0.71062 0.779401</Border>
+                <Fill>0.702319 0.888276 0.974252</Fill>
+            </Appearance>
+            <String>微信头像</String>
+            <ConnectedNoteIDs>3</ConnectedNoteIDs>
+            <PointsToNoteIDs>3</PointsToNoteIDs>
+        </Note>
+        <Note ID="3" FontSize="14.0" Position="27.0,123.0" Width="108.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>通过url显示图片</String>
+            <ConnectedNoteIDs>2</ConnectedNoteIDs>
+        </Note>
+        <Note ID="4" FontSize="14.0" Position="352.0,124.0" Width="64.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>我的相册</String>
+        </Note>
+        <Note ID="5" FontSize="14.0" Position="460.0,125.0" Width="36.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>日志</String>
+        </Note>
+        <Note ID="7" FontSize="14.0" Position="770.0,64.0" Width="64.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>日志界面</String>
+        </Note>
+        <Note ID="8" FontSize="14.0" Position="692.0,166.0" Width="83.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.794796 0.560965 0.58607</Border>
+                <Fill>0.993495 0.701207 0.732587</Fill>
+            </Appearance>
+            <String>日志000001</String>
+        </Note>
+        <Note ID="9" FontSize="14.0" Position="694.0,208.0" Width="83.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.794796 0.560965 0.58607</Border>
+                <Fill>0.993495 0.701207 0.732587</Fill>
+            </Appearance>
+            <String>日志000001</String>
+        </Note>
+        <Note ID="10" FontSize="14.0" Position="694.0,252.0" Width="83.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.794796 0.560965 0.58607</Border>
+                <Fill>0.993495 0.701207 0.732587</Fill>
+            </Appearance>
+            <String>日志000001</String>
+        </Note>
+        <Note ID="11" FontSize="16.0" Position="701.0,678.0" Width="56.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>上一页</String>
+        </Note>
+        <Note ID="12" FontSize="14.0" Position="858.0,680.0" Width="50.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>下一页</String>
+        </Note>
+        <Note ID="13" FontSize="14.0" Position="782.0,679.0" Width="36.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>页码</String>
+        </Note>
+        <Note ID="14" FontSize="14.0" Position="885.0,115.0" Width="36.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>关闭</String>
+        </Note>
+        <Note ID="19" FontSize="14.0" Position="1091.0,654.0" Width="36.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>拍照</String>
+        </Note>
+        <Note ID="20" FontSize="14.0" Position="1189.0,654.0" Width="36.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>上传</String>
+        </Note>
+        <Note ID="21" FontSize="14.0" Position="1283.0,655.0" Width="36.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>删除</String>
+        </Note>
+        <Note ID="22" FontSize="14.0" Position="1176.0,64.0" Width="64.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>我的相册</String>
+        </Note>
+        <Note ID="24" FontSize="14.0" Position="1175.0,112.0" Width="64.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>我的相册</String>
+        </Note>
+        <Note ID="25" FontSize="14.0" Position="1102.0,169.0" Width="92.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>？？显示形式</String>
+        </Note>
+        <Note ID="27" FontSize="14.0" Position="338.0,436.0" Width="64.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>购买土地</String>
+        </Note>
+        <Note ID="29" FontSize="14.0" Position="1517.0,68.0" Width="92.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>土地选择界面</String>
+        </Note>
+        <Note ID="31" FontSize="14.0" Position="1451.0,173.0" Width="96.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>选择制定大棚:</String>
+        </Note>
+        <Note ID="32" FontSize="14.0" Position="1654.0,173.0" Width="36.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>搜索</String>
+        </Note>
+        <Note ID="33" FontSize="14.0" Position="1304.0,113.0" Width="36.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>关闭</String>
+        </Note>
+        <Note ID="34" FontSize="14.0" Position="1680.0,110.0" Width="36.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>关闭</String>
+        </Note>
+        <Note ID="36" FontSize="12.0" Position="1648.0,268.0" Width="32.0">
+            <Appearance>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>购买</String>
+        </Note>
+        <Note ID="38" FontSize="14.0" Position="1874.0,68.0" Width="64.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>土地详情</String>
+        </Note>
+        <Note ID="39" FontSize="14.0" Position="1800.0,118.0" Width="36.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>返回</String>
+        </Note>
+        <Note ID="41" FontSize="14.0" Position="1908.0,626.0" Width="36.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>购买</String>
+        </Note>
+        <Note ID="42" FontSize="14.0" Position="29.0,681.0" Width="64.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>微信授权</String>
+        </Note>
+        <Note ID="43" FontSize="14.0" Position="233.0,759.0" Width="290.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.794796 0.560965 0.58607</Border>
+                <Fill>0.957566 0.766747 0.999616</Fill>
+            </Appearance>
+            <String>1. UI显示
+2. 微信授权
+3. 屏蔽层
+4. 购买土地信息的显示
+5. 微信头像的刷新</String>
+        </Note>
+        <Note ID="44" FontSize="14.0" Position="647.0,757.0" Width="298.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.794796 0.560965 0.58607</Border>
+                <Fill>0.957566 0.766747 0.999616</Fill>
+            </Appearance>
+            <String>1. UI
+2. TableView
+3. 网络请求: 获取日志</String>
+        </Note>
+        <Note ID="45" FontSize="14.0" Position="1055.0,765.0" Width="299.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.794796 0.560965 0.58607</Border>
+                <Fill>0.957566 0.766747 0.999616</Fill>
+            </Appearance>
+            <String>1. UI
+2. 预览状态，浏览状态
+3. 点击和滑动操作的区分
+4. 通过url刷新精灵
+5. 网络请求:获取相册信息</String>
+        </Note>
+        <Note ID="46" FontSize="14.0" Position="1431.0,767.0" Width="292.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.794796 0.560965 0.58607</Border>
+                <Fill>0.957566 0.766747 0.999616</Fill>
+            </Appearance>
+            <String>1. UI
+2. TableView
+3. 网络请求: 获取空闲土地
+4. 网络请求: 获取指定大棚的空闲土地
+5. 网络请求: 购买土地</String>
+        </Note>
+        <Note ID="47" FontSize="14.0" Position="1793.0,773.0" Width="276.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.794796 0.560965 0.58607</Border>
+                <Fill>0.957566 0.766747 0.999616</Fill>
+            </Appearance>
+            <String>1. UI
+2. 网络请求: 购买土地</String>
+        </Note>
+        <Note ID="49" FontSize="14.0" Position="341.0,977.0" Width="78.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>游戏主界面</String>
+        </Note>
+        <Note ID="50" FontSize="14.0" Position="275.0,1094.0" Width="217.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.794796 0.560965 0.58607</Border>
+                <Fill>0.957566 0.766747 0.999616</Fill>
+            </Appearance>
+            <String>土地信息的显示
+xxxxxx
+xxxxxx
+xxxxxx</String>
+        </Note>
+        <Note ID="51" FontSize="14.0" Position="258.0,1241.0" Width="251.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.794796 0.560965 0.58607</Border>
+                <Fill>0.957566 0.766747 0.999616</Fill>
+            </Appearance>
+            <String>土地
+可滑动
+斜45</String>
+        </Note>
+        <Note ID="52" FontSize="12.0" Position="265.0,1542.0" Width="32.0">
+            <Appearance>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>商城</String>
+        </Note>
+        <Note ID="53" FontSize="14.0" Position="366.0,1541.0" Width="36.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>背包</String>
+        </Note>
+        <Note ID="54" FontSize="14.0" Position="472.0,1543.0" Width="36.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>邻居</String>
+        </Note>
+        <Note ID="55" FontSize="14.0" Position="242.0,1633.0" Width="291.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.794796 0.560965 0.58607</Border>
+                <Fill>0.957566 0.766747 0.999616</Fill>
+            </Appearance>
+            <String>1. UI
+2. 土地/作物动画
+3. 网络协议: 土地信息</String>
+        </Note>
+        <Note ID="58" FontSize="14.0" Position="266.0,1374.0" Width="51.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>浇水x2</String>
+        </Note>
+        <Note ID="59" FontSize="14.0" Position="324.0,1375.0" Width="51.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>除草x2</String>
+        </Note>
+        <Note ID="60" FontSize="14.0" Position="387.0,1375.0" Width="51.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>除虫x2</String>
+        </Note>
+        <Note ID="61" FontSize="14.0" Position="449.0,1376.0" Width="51.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>施肥x2</String>
+        </Note>
+        <Note ID="63" FontSize="14.0" Position="763.0,969.0" Width="36.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>商城</String>
+        </Note>
+        <Note ID="64" FontSize="14.0" Position="684.0,1047.0" Width="225.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>种类列表</String>
+        </Note>
+        <Note ID="65" FontSize="14.0" Position="886.0,1012.0" Width="36.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>关闭</String>
+        </Note>
+        <Note ID="68" FontSize="14.0" Position="695.0,1192.0" Width="36.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>名称</String>
+        </Note>
+        <Note ID="69" FontSize="14.0" Position="694.0,1226.0" Width="36.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>购买</String>
+        </Note>
+        <Note ID="70" FontSize="14.0" Position="645.0,1630.0" Width="300.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.794796 0.560965 0.58607</Border>
+                <Fill>0.957566 0.766747 0.999616</Fill>
+            </Appearance>
+            <String>1. UI
+2. TableView
+3. 种类列表
+4. 网络协议: 获取商品列表
+5. 网络协议: 购买商品</String>
+        </Note>
+        <Note ID="74" FontSize="14.0" Position="748.0,1281.0" Width="64.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>商品简介</String>
+        </Note>
+        <Note ID="75" FontSize="14.0" Position="694.0,1320.0" Width="64.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>xxxxxxxx
+xxxxxxxx
+xxxxxxxx</String>
+        </Note>
+        <Note ID="77" FontSize="14.0" Position="1142.0,974.0" Width="36.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>背包</String>
+        </Note>
+        <Note ID="78" FontSize="14.0" Position="1062.0,1051.0" Width="225.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>种类列表</String>
+        </Note>
+        <Note ID="79" FontSize="14.0" Position="1264.0,1017.0" Width="36.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>关闭</String>
+        </Note>
+        <Note ID="82" FontSize="14.0" Position="1065.0,1197.0" Width="54.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>名称xN</String>
+        </Note>
+        <Note ID="85" FontSize="14.0" Position="1126.0,1286.0" Width="64.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>商品简介</String>
+        </Note>
+        <Note ID="86" FontSize="14.0" Position="1072.0,1325.0" Width="64.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>xxxxxxxx
+xxxxxxxx
+xxxxxxxx</String>
+        </Note>
+        <Note ID="87" FontSize="14.0" Position="1228.0,1340.0" Width="36.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>使用</String>
+        </Note>
+        <Note ID="88" FontSize="14.0" Position="1031.0,1630.0" Width="295.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.794796 0.560965 0.58607</Border>
+                <Fill>0.957566 0.766747 0.999616</Fill>
+            </Appearance>
+            <String>1. UI
+2. TableView
+3. 网络协议: 获取背包列表
+4. 网络协议: 使用道具</String>
+        </Note>
+        <Note ID="90" FontSize="14.0" Position="1541.0,968.0" Width="36.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>邻居</String>
+        </Note>
+        <Note ID="92" FontSize="14.0" Position="1457.0,1050.0" Width="198.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.794796 0.560965 0.58607</Border>
+                <Fill>0.957566 0.766747 0.999616</Fill>
+            </Appearance>
+            <String>邻居信息:
+xxx
+xxx</String>
+        </Note>
+        <Note ID="93" FontSize="14.0" Position="1670.0,1074.0" Width="36.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>进入</String>
+        </Note>
+        <Note ID="95" FontSize="14.0" Position="1886.0,970.0" Width="64.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>邻居土地</String>
+        </Note>
+        <Note ID="96" FontSize="14.0" Position="1820.0,1090.0" Width="217.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.794796 0.560965 0.58607</Border>
+                <Fill>0.957566 0.766747 0.999616</Fill>
+            </Appearance>
+            <String>土地信息的显示
+xxxxxx
+xxxxxx
+xxxxxx</String>
+        </Note>
+        <Note ID="97" FontSize="14.0" Position="1804.0,1237.0" Width="251.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.794796 0.560965 0.58607</Border>
+                <Fill>0.957566 0.766747 0.999616</Fill>
+            </Appearance>
+            <String>土地
+可滑动
+斜45</String>
+        </Note>
+        <Note ID="102" FontSize="14.0" Position="1811.0,1370.0" Width="51.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>浇水x2</String>
+        </Note>
+        <Note ID="103" FontSize="14.0" Position="1870.0,1371.0" Width="51.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>除草x2</String>
+        </Note>
+        <Note ID="104" FontSize="14.0" Position="1932.0,1371.0" Width="51.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>除虫x2</String>
+        </Note>
+        <Note ID="105" FontSize="14.0" Position="1995.0,1372.0" Width="51.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>施肥x2</String>
+        </Note>
+        <Note ID="106" FontSize="14.0" Position="1803.0,1527.0" Width="50.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>上一个</String>
+        </Note>
+        <Note ID="107" FontSize="14.0" Position="2007.0,1528.0" Width="50.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.572684 0.758969 0.558154</Border>
+                <Fill>0.715855 0.948712 0.697692</Fill>
+            </Appearance>
+            <String>下一个</String>
+        </Note>
+        <Note ID="108" FontSize="14.0" Position="1424.0,1627.0" Width="303.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.794796 0.560965 0.58607</Border>
+                <Fill>0.957566 0.766747 0.999616</Fill>
+            </Appearance>
+            <String>1. UI
+2. 网络协议: 获取邻居列表
+3. 网络协议:获取邻居土地信息</String>
+        </Note>
+    </Notes>
+    <BackgroundShapes>
+        <Shape ID="1" Sticky="No" Position="227.0,101.0" Width="300.0" Height="627.214844">
+            <Appearance>
+                <Border Weight="1"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="6" Sticky="No" Position="647.0,100.0" Width="300.0" Height="625.59375">
+            <Appearance>
+                <Border Weight="1"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="15" Sticky="No" Position="666.0,154.0" Width="263.0" Height="506.0">
+            <Appearance>
+                <Border Weight="1">0.798177 0.714184 0.522055</Border>
+                <Fill>0.997722 0.89273 0.652569</Fill>
+            </Appearance>
+        </Shape>
+        <Shape ID="18" Sticky="No" Position="1058.0,102.0" Width="300.0" Height="624.441406">
+            <Appearance>
+                <Border Weight="1"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="23" Sticky="No" Position="1072.0,146.0" Width="275.0" Height="493.0">
+            <Appearance>
+                <Border Weight="1">0.798177 0.714184 0.522055</Border>
+                <Fill>0.997722 0.89273 0.652569</Fill>
+            </Appearance>
+        </Shape>
+        <Shape ID="26" Sticky="No" Position="250.0,252.0" Width="255.773438" Height="161.0">
+            <Appearance>
+                <Border Weight="1">0.798177 0.714184 0.522055</Border>
+                <Fill>0.997722 0.89273 0.652569</Fill>
+            </Appearance>
+        </Shape>
+        <Shape ID="28" Sticky="No" Position="1427.0,101.0" Width="300.0" Height="620.617188">
+            <Appearance>
+                <Border Weight="1"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="30" Sticky="No" Position="1445.0,231.0" Width="266.0" Height="470.0">
+            <Appearance>
+                <Border Weight="1">0.798177 0.714184 0.522055</Border>
+                <Fill>0.997722 0.89273 0.652569</Fill>
+            </Appearance>
+        </Shape>
+        <Shape ID="35" Sticky="No" Position="1461.0,249.0" Width="238.0" Height="61.0">
+            <Appearance>
+                <Border Weight="1">0.794796 0.560965 0.58607</Border>
+                <Fill>0.993495 0.701207 0.732587</Fill>
+            </Appearance>
+        </Shape>
+        <Shape ID="37" Sticky="No" Position="1773.0,102.0" Width="300.0" Height="618.371094">
+            <Appearance>
+                <Border Weight="1"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="40" Sticky="No" Position="1788.0,151.0" Width="271.0" Height="548.0">
+            <Appearance>
+                <Border Weight="1">0.798177 0.714184 0.522055</Border>
+                <Fill>0.997722 0.89273 0.652569</Fill>
+            </Appearance>
+        </Shape>
+        <Shape ID="48" Sticky="No" Position="231.0,1008.0" Width="300.0" Height="577.179688">
+            <Appearance>
+                <Border Weight="1"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="57" Sticky="No" Position="253.0,1337.0" Width="257.0" Height="92.0">
+            <Appearance>
+                <Border Weight="1">0.798177 0.714184 0.522055</Border>
+                <Fill>0.997722 0.89273 0.652569</Fill>
+            </Appearance>
+        </Shape>
+        <Shape ID="62" Sticky="No" Position="643.0,1005.0" Width="306.0" Height="571.808594">
+            <Appearance>
+                <Border Weight="1"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="66" Sticky="No" Position="660.0,1094.0" Width="267.0" Height="418.0">
+            <Appearance>
+                <Border Weight="1">0.798177 0.714184 0.522055</Border>
+                <Fill>0.997722 0.89273 0.652569</Fill>
+            </Appearance>
+        </Shape>
+        <Shape ID="67" Sticky="No" Position="672.0,1111.0" Width="81.0" Height="71.0">
+            <Appearance>
+                <Border Weight="1">0.794796 0.560965 0.58607</Border>
+                <Fill>0.993495 0.701207 0.732587</Fill>
+            </Appearance>
+        </Shape>
+        <Shape ID="73" Sticky="No" Position="672.0,1272.0" Width="247.0" Height="132.0">
+            <Appearance>
+                <Border Weight="1"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="76" Sticky="No" Position="1021.0,1010.0" Width="306.0" Height="571.808594">
+            <Appearance>
+                <Border Weight="1"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="80" Sticky="No" Position="1038.0,1099.0" Width="267.0" Height="418.0">
+            <Appearance>
+                <Border Weight="1">0.798177 0.714184 0.522055</Border>
+                <Fill>0.997722 0.89273 0.652569</Fill>
+            </Appearance>
+        </Shape>
+        <Shape ID="81" Sticky="No" Position="1050.0,1116.0" Width="81.0" Height="71.0">
+            <Appearance>
+                <Border Weight="1">0.794796 0.560965 0.58607</Border>
+                <Fill>0.993495 0.701207 0.732587</Fill>
+            </Appearance>
+        </Shape>
+        <Shape ID="84" Sticky="No" Position="1050.0,1277.0" Width="247.0" Height="132.0">
+            <Appearance>
+                <Border Weight="1"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="89" Sticky="No" Position="1425.0,1006.0" Width="300.0" Height="572.730469">
+            <Appearance>
+                <Border Weight="1"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="91" Sticky="No" Position="1444.0,1037.0" Width="268.0" Height="92.0">
+            <Appearance>
+                <Border Weight="1">0.798177 0.714184 0.522055</Border>
+                <Fill>0.997722 0.89273 0.652569</Fill>
+            </Appearance>
+        </Shape>
+        <Shape ID="94" Sticky="No" Position="1776.0,1004.0" Width="300.0" Height="577.179688">
+            <Appearance>
+                <Border Weight="1"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="101" Sticky="No" Position="1798.0,1333.0" Width="257.0" Height="92.0">
+            <Appearance>
+                <Border Weight="1">0.798177 0.714184 0.522055</Border>
+                <Fill>0.997722 0.89273 0.652569</Fill>
+            </Appearance>
+        </Shape>
+    </BackgroundShapes>
+    <AutoFit>2-5, 7-14, 19-22, 24-25, 27, 29, 31-34, 36, 38-39, 41-42, 49, 52-54, 58-61, 63, 65, 68-69, 74-75, 77, 79, 82, 85-87, 90, 93, 95, 102-107</AutoFit>
+    <NoteStyles>
+        <Style Name="Bubble (Blue)" ID="27A0EF3B-DC20-4535-982A-23B20BC8B0FB" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.561855 0.71062 0.779401</BorderColor>
+            <FillColor>0.702319 0.888276 0.974252</FillColor>
+        </Style>
+        <Style Name="Bubble (Green)" ID="E5B68A49-F870-42CD-A4D6-57A33D963535" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.572684 0.758969 0.558154</BorderColor>
+            <FillColor>0.715855 0.948712 0.697692</FillColor>
+        </Style>
+        <Style Name="Bubble (Pink)" ID="3FF26920-645D-459E-B749-57AB64D794EF" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.794796 0.560965 0.58607</BorderColor>
+            <FillColor>0.957566 0.766747 0.999616</FillColor>
+        </Style>
+        <Style Name="Bubble (Red)" ID="782D2984-4AC0-44DC-A56C-30A394AA51CE" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.794796 0.560965 0.58607</BorderColor>
+            <FillColor>0.993495 0.701207 0.732587</FillColor>
+        </Style>
+        <Style Name="Bubble (Yellow)" ID="0123B0DC-6871-4B9F-BC54-11CDB70D06E7" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.798177 0.714184 0.522055</BorderColor>
+            <FillColor>0.997722 0.89273 0.652569</FillColor>
+        </Style>
+        <Style Name="Red Text" ID="FDF431CE-030F-41E4-89BD-6A903653B1F5" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
+            <TextColor>0.985948 0.0 0.026951</TextColor>
+        </Style>
+        <Style Name="Title Text" ID="B496178A-DF5C-4D3F-AADF-2240DDE64FF5" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
+            <FontSize>28.0</FontSize>
+            <IsBold>Yes</IsBold>
+        </Style>
+    </NoteStyles>
+    <UISettings>
+        <BackgroundColor>0.999767 0.98837 0.949907</BackgroundColor>
+        <DefaultFont>Helvetica</DefaultFont>
+    </UISettings>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScappleDocument>

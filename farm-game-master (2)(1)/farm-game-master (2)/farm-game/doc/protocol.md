@@ -1,0 +1,328 @@
+## login
+request:
+```json
+{
+"uuid":"string",
+"unionid":"string",
+"wxinfo":{
+从微信获取到的信息
+} 
+}
+```
+response:
+```json
+{
+"code":0,
+"msg":{},
+"data":{
+"useid": 10001,
+"vip": 0,
+"grandid":-1,
+"token":"",
+"grandinfo":{
+"dapengid":"",
+"name":"",
+"operates":[]
+"other":{},
+"items":[
+{
+"是否种植":0,
+"作物ID":0,
+"level":0
+}
+]
+}
+}
+}
+```
+## 日志
+request:
+```json
+{
+"pageid":0,
+"count":10
+}
+```
+response:
+```json
+{
+"code":0,
+"msg":{},
+"data":{
+"logs":[
+"xxxxxxx"
+]
+}
+}
+```
+## 相册
+### getphotoinfo
+request
+```json
+{
+"userid":""
+}
+```
+response:
+```json
+{
+"code":0,
+"msg":{},
+"data":{
+"photos":[
+{
+"url":"",
+"photoid":""
+}
+]
+}
+}
+```
+### upload
+resquest
+```json
+{
+"photodata":"base64/图片"
+}
+```
+response
+```json
+{
+"code":0,
+"msg":{},
+"data":{}
+}
+```
+### delete
+```json
+{
+"photoId":"xxxxx"
+}
+```
+response
+```json
+{
+"code":0,
+"msg":{},
+"data":{}
+}
+```
+## 土地选择
+grand
+request
+```json
+{
+"cmd":"获取未销售土地列表",
+"params":{
+"大棚号":"0-100"
+}
+}
+```
+response:
+```json
+{
+"code":0,
+"msg":{},
+"data":{
+"cmd":"获取未销售土地列表",
+"params":{
+"grands":[
+{
+"大棚号":0,
+"土地号":0,
+"名称":"",
+"描述":"",
+"url":""
+}
+]
+}
+}
+}
+```
+### getgrand
+resquest
+```json
+{
+"大棚号":0,
+"土地号":0
+}
+```
+response
+```json
+"code":0,
+"msg":{},
+"data":{
+}
+```
+## 游戏主界面
+### 获取土地信息
+request
+```json
+{}
+```
+response
+```json
+"code":0,
+"msg":{},
+"data":{
+"grandinfo":{
+}
+}
+```
+## 操作
+### 道具使用
+request
+```json
+{
+"cmd":浇水/除草
+"userid":""
+}
+```
+response
+```json
+"code":0,
+"msg":{},
+"data":{
+"score":0,
+"level":0
+}
+```
+### 种植
+request
+```json
+{
+"grandId":"",
+"种子ID":""
+}
+```
+response
+```json
+"code":0,
+"msg":{},
+"data":{
+"score":0,
+"level":0
+}
+```
+## 商城
+### 获取商品列表
+request
+```json
+```
+response
+```json
+{
+"code":0,
+"msg":{},
+"data":{
+    "items":[
+        {
+            "name":"",
+            "id":1001,
+            "type":"钻石/积分",
+            "desc":"",
+            "value":1001
+        }
+    ]
+}
+}
+```
+### 购买
+request
+```json
+{
+    "itemid":""
+}
+```
+response
+```json
+{
+"code":0,
+"msg":{},
+"data":{
+}
+}
+```
+## 背包
+### 请求背包信息
+request
+```json
+{}
+```
+response
+```json
+{
+{
+"code":0,
+"msg":{},
+"data":{
+    "items":[
+        {
+            "name":"",
+            "id":1001,
+            "type":"道具类型",
+            "desc":"",
+            "count":0
+        }
+    ]
+}
+}
+}
+```
+### 使用道具
+request
+```json
+{
+    "itemid":""
+    "params":{}
+}
+```
+response
+```json
+{
+"code":0,
+"msg":{},
+"data":{
+    "itemid":""
+}
+}
+```
+## 邻居
+request
+```json
+{}
+```
+response
+```json
+{
+"code":0,
+"msg":{},
+"data":{
+    "邻居列表":[
+        {
+        "userinfo":{
+            "name":"",
+            "url":"",
+            "userid":""
+        },
+        "grandinfo":{
+        "dapengid":"",
+        "name":"",
+        "operates":[]
+        "other":{},
+        "items":[
+        {
+        "是否种植":0,
+        "作物ID":0,
+        "level":0
+        }
+        ]
+}
+}
+}
+```
+
+## 注意
+- request请求添加token
+- request全用post请求
+- 前端对相册的操作，判断是否是字节的相册
